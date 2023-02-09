@@ -40,7 +40,6 @@ function wrapping(gifts) {
 
     return newArray;
 }
-
 const gifts = ['cat', 'game', 'socks']
 const wrapped = wrapping(gifts)
 
